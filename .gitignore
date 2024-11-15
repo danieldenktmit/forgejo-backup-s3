@@ -1,0 +1,9 @@
+/talos/secrets.yaml
+/talos/talosconfig
+/talos/rendered/
+charts/**/*.tgz
+creds
+/talos/patches/hosts.yaml
+.idea
+crd
+.DS_Store
